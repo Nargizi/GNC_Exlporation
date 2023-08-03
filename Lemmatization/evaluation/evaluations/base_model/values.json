@@ -1,0 +1,246 @@
+{
+   "pos_tag": {
+      "A": {
+         "accuracy": 0.7874015748031497,
+         "edit_distance": 0.5354330708661418,
+         "top_3_worst": {
+            "1": {
+               "distance": 8,
+               "word": "არაწარმომადგენლობითი",
+               "lemma": "არაწარმომადგენლობითი",
+               "prediction": "არაწარმომდგდგმენრი"
+            },
+            "2": {
+               "distance": 6,
+               "word": "წინდაუცვეთელი",
+               "lemma": "წინდაუცვეთელი",
+               "prediction": "ღითდაზტუეეელი"
+            },
+            "3": {
+               "distance": 5,
+               "word": "მაღალპროფესიული",
+               "lemma": "მაღალპროფესიული",
+               "prediction": "მაღალვროსფფპული"
+            }
+         }
+      },
+      "Adv": {
+         "accuracy": 0.16666666666666666,
+         "edit_distance": 1.1666666666666667,
+         "top_3_worst": {
+            "1": {
+               "distance": 2,
+               "word": "არაუშავსო",
+               "lemma": "არაუშავს",
+               "prediction": "არაუშვა"
+            },
+            "2": {
+               "distance": 2,
+               "word": "ფერხთ-ქვეშე",
+               "lemma": "ფერხთქვეშე",
+               "prediction": "ფერხთვვეში"
+            },
+            "3": {
+               "distance": 1,
+               "word": "ერთბამადვე",
+               "lemma": "ერთბამად",
+               "prediction": "ერთბამა"
+            }
+         }
+      },
+      "N": {
+         "accuracy": 0.7495711835334476,
+         "edit_distance": 0.5060034305317325,
+         "top_3_worst": {
+            "1": {
+               "distance": 8,
+               "word": "უგულებელყოფით",
+               "lemma": "უგულებელყოფა",
+               "prediction": "უღლესუკიოოო"
+            },
+            "2": {
+               "distance": 8,
+               "word": "რადიო-მაუწყებლობის",
+               "lemma": "რადიომაუწყებლობა",
+               "prediction": "რადიამოწოყულებება"
+            },
+            "3": {
+               "distance": 7,
+               "word": "წინასწარგანწყობებით",
+               "lemma": "წინასწარგანწყობა",
+               "prediction": "წინასაწრღნაყოო"
+            }
+         }
+      },
+      "Num": {
+         "accuracy": 0.5,
+         "edit_distance": 1.0,
+         "top_3_worst": {
+            "1": {
+               "distance": 2,
+               "word": "ათასშიც",
+               "lemma": "ათასი",
+               "prediction": "ათა"
+            },
+            "2": {
+               "distance": 2,
+               "word": "ათასორასი",
+               "lemma": "ათასორასი",
+               "prediction": "ათასორა"
+            },
+            "3": {
+               "distance": 0,
+               "word": "ხუთი",
+               "lemma": "ხუთი",
+               "prediction": "ხუთი"
+            }
+         }
+      },
+      "Other": {
+         "accuracy": 0.25,
+         "edit_distance": 1.5,
+         "top_3_worst": {
+            "1": {
+               "distance": 2,
+               "word": "ნამსახურებათა",
+               "lemma": "ნამსახურები",
+               "prediction": "ნამსახური"
+            },
+            "2": {
+               "distance": 2,
+               "word": "მელაკუდას",
+               "lemma": "მელაკუდა",
+               "prediction": "დელაკუბა"
+            },
+            "3": {
+               "distance": 2,
+               "word": "ორასიო",
+               "lemma": "ორასი",
+               "prediction": "ორა"
+            }
+         }
+      },
+      "Pron": {
+         "accuracy": 0.25,
+         "edit_distance": 2.25,
+         "top_3_worst": {
+            "1": {
+               "distance": 5,
+               "word": "მაგისთანებისგან",
+               "lemma": "მაგისთანა",
+               "prediction": "მაგი"
+            },
+            "2": {
+               "distance": 2,
+               "word": "ჩემებისკენ",
+               "lemma": "ჩემი",
+               "prediction": "ჩე"
+            },
+            "3": {
+               "distance": 2,
+               "word": "ამისწინა",
+               "lemma": "ამისი",
+               "prediction": "ამი"
+            }
+         }
+      },
+      "V": {
+         "accuracy": 0.7432432432432432,
+         "edit_distance": 0.8074324324324325,
+         "top_3_worst": {
+            "1": {
+               "distance": 7,
+               "word": "ამაგნიტებდა",
+               "lemma": "*მაგნიტება",
+               "prediction": "გამანაგეერება"
+            },
+            "2": {
+               "distance": 7,
+               "word": "ზღვავდება",
+               "lemma": "*ზღვავება",
+               "prediction": "გათაღზვა"
+            },
+            "3": {
+               "distance": 7,
+               "word": "ვუბრახუნებ",
+               "lemma": "*ბრახუნება",
+               "prediction": "გაბარძათრება"
+            }
+         }
+      }
+   },
+   "word_length_category": {
+      "high": {
+         "accuracy": 0.7483221476510067,
+         "edit_distance": 0.7483221476510067,
+         "top_3_worst": {
+            "1": {
+               "distance": 8,
+               "word": "რადიო-მაუწყებლობის",
+               "lemma": "რადიომაუწყებლობა",
+               "prediction": "რადიამოწოყულებება"
+            },
+            "2": {
+               "distance": 8,
+               "word": "არაწარმომადგენლობითი",
+               "lemma": "არაწარმომადგენლობითი",
+               "prediction": "არაწარმომდგდგმენრი"
+            },
+            "3": {
+               "distance": 8,
+               "word": "უგულებელყოფით",
+               "lemma": "უგულებელყოფა",
+               "prediction": "უღლესუკიოოო"
+            }
+         }
+      },
+      "low": {
+         "accuracy": 0.7170626349892009,
+         "edit_distance": 0.6004319654427646,
+         "top_3_worst": {
+            "1": {
+               "distance": 7,
+               "word": "ზღვავდება",
+               "lemma": "*ზღვავება",
+               "prediction": "გათაღზვა"
+            },
+            "2": {
+               "distance": 6,
+               "word": "მიჭედოს",
+               "lemma": "*ჭედვა",
+               "prediction": "დაკედგომა"
+            },
+            "3": {
+               "distance": 6,
+               "word": "ბრაგუნობს",
+               "lemma": "*ბრაგუნება",
+               "prediction": "გაბარანგება"
+            }
+         }
+      },
+      "medium": {
+         "accuracy": 0.7870722433460076,
+         "edit_distance": 0.4828897338403042,
+         "top_3_worst": {
+            "1": {
+               "distance": 7,
+               "word": "ვუბრახუნებ",
+               "lemma": "*ბრახუნება",
+               "prediction": "გაბარძათრება"
+            },
+            "2": {
+               "distance": 7,
+               "word": "ამაგნიტებდა",
+               "lemma": "*მაგნიტება",
+               "prediction": "გამანაგეერება"
+            },
+            "3": {
+               "distance": 5,
+               "word": "გადმიყვანეს",
+               "lemma": "გადყვანა",
+               "prediction": "დაყოლა"
+            }
+         }
+      }
+   }
+}
